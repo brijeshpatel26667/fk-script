@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pkg install git --silent
+
 clear
 echo -e "\e[1;4m I AM \e[0m "
 figlet cYBER cRYPTO
