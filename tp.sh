@@ -103,7 +103,7 @@ cp ngrok $HOME/shellphish
 cd shellphish
 chmod +x *
 unzip sites.sh
-bash shellphish.sh
+cd
 
 
 else 
@@ -115,8 +115,6 @@ cd HiddenEye
 chmod +x *
 pip install -r requirements.txt
 cd && cp  ngrok $HOME/HiddenEye
-cd HiddenEye
-sudo python HiddenEye.py
 
 fi
 
@@ -125,20 +123,16 @@ echo -e "\e[1;32m       .:.:.\e[0m\e[1;95m Thanks for using my script😍😍 \e
 echo "  "
 echo -e "\e[1;32m       .:.:.\e[0m\e[1;95m The original tools belong to their respective owners. i have just made it easy to install it \e[0m\e[1;32m.:.:.\e[0m\n"
 echo "   "
-toilet Yours 
-echo " "
-echo " "
-echo "             "
-echo "                ######         "
-echo "                #         "
-echo "                #       #   # #### #### #####  "
-echo "                #        # #  #  # #    #   #  "
-echo "                #         #   #### #### #####  "
-echo "                #         #   #  # #    # #    "
-echo "  #######       #######   #   #### #### #  #   "
-echo "  #                             "
-echo "  #       ##### #   # ##### ####### ##### "
-echo "  #       #   #  # #  #   #    #    #   #  "
-echo "  #       #####   #   #####    #    #   # "
-echo "  #       # #     #   #        #    #   # "
-echo "  ####### #  #    #   #        #    #####  "
+exit
+
+
+
+
+
+
+
+
+
+
+
+
